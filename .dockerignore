@@ -11,7 +11,9 @@ Makefile
 Procfile
 app.json
 crowdin.yml
+dist
 build
 docker-compose.yml
 fakes3
 node_modules
+deploy
